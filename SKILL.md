@@ -52,6 +52,7 @@ All agents operate within `generation_environment` and must read/write to these 
 - **Compiler** collects the verified question structures.
 - It formats according to the past test convention.
 - It verifies that the entire document can compile via pdfLaTeX with zero environment bugs.
+- Once everything has been completed, delete all intermediate files ("Problems", "Solutions", "Outlines" documents). Leave only the final packet (LaTeX or PDF file).
 
 ---
 

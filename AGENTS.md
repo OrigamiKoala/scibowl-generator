@@ -47,6 +47,7 @@
     - Do NOT use the mhchem package, use chemformula (\ch{...} not \ce{...}).
     - Do NOT include the right answers in the "Problems" document.
     - Multiple choice answers often have a predictable structure, aiding pre-buzzes. For example, if the question was "Which of the following elements has the highest electronegativity?" the answers could be "W. H, X. C; Y. N, Z. O" instead of "W. Hydrogen, X. C, Y. Nitrogen, Z. O"
+    - No answers should be long, complicated formulas.
 ---
 
 ## Agent: Solver
@@ -66,6 +67,7 @@
     - The answers should be absolutely, 100% indisputably correct.
     - The problems should all be solvable without a scientific calculator, within the time window (5 seconds for tossups, 20 seconds for bonuses).
     - Multiple choice questions should have exactly ONE correct answer.
+    - No answers should be long, complicated formulas.
 ---
 
 ## Agent: Reviewer
@@ -97,6 +99,7 @@
     - The answers should be absolutely, 100% indisputably correct.
     - The problems should all be solvable without a scientific calculator, within the time window (5 seconds for tossups, 20 seconds for bonuses).
     - Multiple choice questions should have exactly ONE correct answer.
+    - No answers should be long, complicated formulas.
 ---
 
 ## Agent: Compiler

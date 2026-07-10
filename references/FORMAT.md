@@ -12,9 +12,13 @@ There are two types of questions - multiple choice and short answer. There are n
 
 Often, competitors will interrupt the moderator and attempt to predict what the question will ask before it is done so, and answer accordingly. Many format-match, meaning for multiple choice questions, the answer choices are often structured to aid pre-buzzing. 
 
+# Subjects
+
+There are 6 subjects: Math, Physics, Chemistry, Biology, Earth and Space Science, and Energy. Include an about equal amount of each.
+
 # Difficulty Levels
 
-National Science Bowl has three main difficulty levels: Regionals Round Robin (Rounds 1-5), Nationals Round Robin (Rounds 6-10), and Nationals Double Elimination (Rounds 11-16). Please see past_packets/ for a sense of how the rounds' difficulty levels are structured. 
+National Science Bowl has three main difficulty levels: Regionals Round Robin (Rounds 1-5), Nationals Round Robin (Rounds 6-10), and Nationals Double Elimination (Rounds 11-16). Please see past_packets/ for a sense of how the rounds' difficulty levels are structured. Generally, tossups are easier than bonuses and do not involve calculations, while bonuses may.
 
 # Packet Format
 

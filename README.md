@@ -4,4 +4,4 @@ This is a skill with instructions for an AI agent to write Science Bowl packets.
 
 Credits:
 
-The reference files sent to the agent contain TeX versions of the MIT 2025 Science Bowl Packets. Find out more about MIT Science Bowl on their [website](https://www.mitsciencebowl.com/home).
+The reference files sent to the agent contain TeX versions of the MIT 2025 Science Bowl Packets. Find out more about MIT Science Bowl on their [website](https://www.mitsciencebowl.com/home). These are the property of MIT Science Bowl, and thus are not part of the same MIT License as the rest of the project.

@@ -12,7 +12,6 @@ agents: ./AGENTS.md
 Coordinate a structured, multi-agent assembly line to generate complex National Science Bowl questions that test deep conceptual understanding while guaranteeing LaTeX compilability and absolute mathematical precision.
 
 ## Shared File Environment Matrix
-All agents operate within `generation_environment` and must read/write to these exact file paths:
 - **Reference Assets**: `references/FORMAT.md`, `references/EXCLUDED_TOPICS.md`
 - **Historical Data**: `past_packets/`
 - **Pipeline Artifacts**: `Master Outline` (Text) $\rightarrow$ `Problems` (LaTeX) $\rightarrow$ Final Compiled Output
@@ -52,7 +51,7 @@ All agents operate within `generation_environment` and must read/write to these 
 - **Compiler** collects the verified question structures.
 - It formats according to the past test convention.
 - It verifies that the entire document can compile via pdfLaTeX with zero environment bugs.
-- Once everything has been completed, delete all intermediate files ("Problems", "Solutions", "Outlines" documents). Leave only the final packet (LaTeX or PDF file).
+- Once everything has been completed, delete all intermediate files ("Problems", "Solutions", "Outlines" documents). Leave only the final packet (PDF file) in ~/Downloads.
 
 ---
 

@@ -14,7 +14,7 @@ Often, competitors will interrupt the moderator and attempt to predict what the 
 
 # Subjects
 
-There are 6 subjects: Math, Physics, Chemistry, Biology, Earth and Space Science, and Energy. Include an about equal amount of each.
+There are 6 subjects: Math, Physics, Chemistry, Biology, Earth and Space Science, and Energy. Include an about equal amount of each. Ensure the topics are shuffled thoroughly.
 
 # Difficulty Levels
 
@@ -25,3 +25,9 @@ National Science Bowl has three main difficulty levels: Regionals Round Robin (R
 ***CRITICAL*** Answer choices for multiple choice questions are labeled "W, X, Y, Z" instead of "A, B, C, D".
 
 The packet groups each tossup-bonus pair together. First, it outlines which type of question it is (Tossup/Bonus + #, then subject, then Multiple Choice/Short Answer). Then, the question text is presented, followed by answer choices (if there are any). Each answer choice gets its own line. Finally, the Answer is added at the end of each question.
+
+Short answer questions should be phrases, not full-length explanations of a phenomenon or effect.
+
+Multiple Choice questions, when applicable, should have a consistent format (e.g. "W) increasing, increasing, X) increasing, decreasing, Y) decreasing, increasing, Z) decreasing, decreasing)"). Also ensure answer choices do not include extra words like "The" - the answer choices, unless they are explanations of phenomena, should be relatively short.
+
+Each answer choice should get a new line.

@@ -12,6 +12,7 @@ agents: ./AGENTS.md
 Coordinate a structured, multi-agent assembly line to generate complex National Science Bowl questions that test deep conceptual understanding while guaranteeing LaTeX compilability and absolute mathematical precision.
 
 ## Shared File Environment Matrix
+All agents operate within the same environment.
 - **Reference Assets**: `references/FORMAT.md`, `references/EXCLUDED_TOPICS.md`
 - **Historical Data**: `past_packets/`
 - **Pipeline Artifacts**: `Master Outline` (Text) $\rightarrow$ `Problems` (LaTeX) $\rightarrow$ Final Compiled Output

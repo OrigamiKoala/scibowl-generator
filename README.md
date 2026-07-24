@@ -7,3 +7,5 @@ Unsure how to set up antigravity? Go to [https://antigravity.google/](https://an
 Credits:
 
 The reference files sent to the agent contain TeX versions of the MIT 2025 Science Bowl Packets. Find out more about MIT Science Bowl on their [website](https://www.mitsciencebowl.com/home). These are the property of MIT Science Bowl, and thus are not part of the same MIT License as the rest of the project.
+
+If you like my stuff, consider supporting me on [Patreon](https://www.patreon.com/cw/origamikoala). Thanks!
